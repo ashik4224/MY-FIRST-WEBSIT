@@ -149,6 +149,7 @@ body{
     box-sizing: border-box;
 }
 .bigimage{
+    margin-top: 5%;
     width: 1140px;
     height: 314px;
     position: relative;
@@ -249,21 +250,6 @@ body{
     letter-spacing: 0%;
     text-align: left;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* footer */
 .footer{
     background-color: rgba(13, 19, 33, 0.03);
