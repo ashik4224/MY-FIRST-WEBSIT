@@ -35,7 +35,6 @@ body{
 .section2{
     width: 1920px;
     height: 1235px;
-    border: 3px solid gold;
     align-self: center;
     
 }
@@ -45,11 +44,24 @@ body{
     margin-left:300px;
     box-sizing: border-box;
     box-shadow: 1px black;
+
+}
+
+.description{
+    margin-top: 50px;
+
+}
+.but{
+    margin-top: 80px;
+    padding: 10px;
+    font-size: 15px;
+
 }
 .title5{
     width: 477px;
     height: 220px;
     box-sizing: border-box;
+    
 }
 .img{
     width: 260;
@@ -62,6 +74,7 @@ body{
     margin-left:300px;
     box-sizing: border-box;
     box-shadow: 1px black;
+
     
 }
 .title6{
@@ -82,7 +95,6 @@ body{
     font-size: 32px;
     font-weight: bold;
     color:  rgb(13, 19, 33);
-    border: 1px solid firebrick;
     margin-left: 30%;
     margin-right: 30%;
 }
@@ -192,13 +204,11 @@ body{
   width: 1920px;
   height: 871px;
   text-align: center;
-  border:  1px solid firebrick;
 }
 .target2{
     font-size: 32px;
     font-weight: bold;
     color:  rgb(13, 19, 33);
-    border: 1px solid firebrick;
     margin-left: 30%;
     margin-right: 30%;
     padding-top: 5%;
@@ -213,7 +223,6 @@ body{
     color: rgb(13, 19, 33);
     line-height: 26px;
     letter-spacing: 0%;
-    border: 1px solid firebrick;
     margin: 2% auto;
 }
 .main-target{
@@ -224,13 +233,11 @@ body{
     display: flex;
     width: 1060px;
     height: 140px;
-    border: 2px solid hotpink;
 }
 .photo2{
     color: rgb(13, 19, 33);
    width: 97px;
    height: 36px;
-   border: 2px solid hotpink;
    text-emphasis-position: top;
 
 } 
